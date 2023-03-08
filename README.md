@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waheeduk
-- 👀 I’m interested in python, and the godot game engine.
-- 🌱 I’m currently learning C++ by trying to create a game engine with SDL2.
+- 👀 I’m interested in python, and C++. 
 
 
 <!---
