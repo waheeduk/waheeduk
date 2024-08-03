@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waheeduk
-- 👀 I’m interested in python, and C++. 
+- 👀 I’m interested in python, and am currently learning more about web development. 
 
 
 <!---
